@@ -481,7 +481,7 @@
     <instance id="vocab-ipaudit">
         <web-url>ipaudit</web-url>
         <title-ref>ipaudit</title-ref>
-        <title>IP Audit</title>
+        <title>Copyright status</title>
         <options>
             <option id="protected_by_copyright">Protected by Copyright</option>
             <option id="assumed_protected_by_copyright">Assumed Protected by Copyright</option>
